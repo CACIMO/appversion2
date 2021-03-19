@@ -17,7 +17,7 @@ class _Carrito extends State<Carrito> {
     getCarrito(this.context);
   }
 
-  List prePed = []
+  List prePed = [];
 
   final TextEditingController controllerBusq = TextEditingController();
 
